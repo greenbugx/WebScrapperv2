@@ -14,13 +14,13 @@ The **Web Scrapper v2** is a Python-based tool and the successor of ![Web Scrapp
 ---
 
 ## ✨ Features
-- [*] **Dynamic Content Handling:** Uses Selenium to render JavaScript-heavy pages.
-- [*] **Download All Assets:** HTML, CSS, JS, images, videos, audio, and fonts.
-- [*] **User-Agent Spoofing:** Randomized User-Agent from a `UserAgent.txt` file.
-- [*] **Recursive Crawling:** Scrape all internal links up to a specified depth.
-- [*] **Save as Complete Website:** Adjusts paths to work offline.
-- [*] **Error Handling & Logging:** Comprehensive error management and logging.
-- [*] **Improved User Interface:** Interactive menu with ASCII art for enhanced terminal experience.
+- [x] **Dynamic Content Handling:** Uses Selenium to render JavaScript-heavy pages.
+- [x] **Download All Assets:** HTML, CSS, JS, images, videos, audio, and fonts.
+- [x] **User-Agent Spoofing:** Randomized User-Agent from a `UserAgent.txt` file.
+- [x] **Recursive Crawling:** Scrape all internal links up to a specified depth.
+- [x] **Save as Complete Website:** Adjusts paths to work offline.
+- [x] **Error Handling & Logging:** Comprehensive error management and logging.
+- [x] **Improved User Interface:** Interactive menu with ASCII art for enhanced terminal experience.
 - [] **Proxies:** For anonymity (Coming in next update).
 ---
 
