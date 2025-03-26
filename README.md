@@ -21,7 +21,7 @@ The **Web Scrapper v2** is a Python-based tool and the successor of ![Web Scrapp
 - [x] **Save as Complete Website:** Adjusts paths to work offline.
 - [x] **Error Handling & Logging:** Comprehensive error management and logging.
 - [x] **Improved User Interface:** Interactive menu with ASCII art for enhanced terminal experience.
-- [] **Proxies:** For anonymity (Coming in next update).
+- [ ] **Proxies:** For anonymity (Coming in next update).
 ---
 
 ## 🛠️ Installation
