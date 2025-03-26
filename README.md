@@ -1,4 +1,14 @@
-# Web Scrapper v2
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Web_Scrapper_v2-GreenBugX-8A2BE2?style=for-the-badge&logo=insects&logoColor=white&labelColor=darkgreen&color=green&labelWidth=400&logoWidth=40" alt="Scrape!" style="transform: scale(1.5); margin: 10px 0;" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,vscode,selenium" />
+  </a>
+</p>
 
 ## 📜 Introduction
 The **Web Scrapper v2** is a Python-based tool and the successor of ![Web Scrapper v1](https://github.com/greenbugx/WebScrapper) designed to scrape and download entire websites, including all associated assets like HTML, CSS, JavaScript, images, videos, audios, and fonts. It leverages both **requests** and **Selenium** to handle dynamic content and provides advanced features for recursive crawling, user-agent spoofing, and error handling.
