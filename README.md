@@ -31,15 +31,15 @@ The **Web Scrapper v2.1** is a Python-based tool and the successor of [Web Scrap
 - [x] **Save as Complete Website:** Adjusts paths to work offline.
 - [x] **Error Handling & Logging:** Comprehensive error management and logging.
 - [x] **Improved User Interface:** Interactive menu with ASCII art for enhanced terminal experience.
-- [X] **Proxies:** Rotating proxy from `proxies.txt` feature for Anonymity.
+- [X] **Proxies:** Rotating proxy from `proxies.txt` for Anonymity.
 - [ ] **Custom Header Requests:** Coming in next update.
 ---
 
 ## 🛠️ Installation
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/greenbugx/
-cd advanced-web-scraper
+git clone https://github.com/greenbugx/WebScrapperv2
+cd WebScrapperv2
 ```
 
 2. **Install Dependencies:**
@@ -54,9 +54,7 @@ Create a `UserAgent.txt` file in the same directory and add User-Agent strings l
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 ```
-Or
-Simple Run the script and it will prompt you to generate Random UserAgents and save it in `UserAgent.txt`.
----
+Or Simply Run the script and it will prompt you to generate Random UserAgents and save it in `UserAgent.txt`.
 
 4. **Set Up Proxies File:**
 Create a `proxies.txt` file in the same directory and add your proxies like:
