@@ -11,7 +11,7 @@
 </p>
 
 ## 📜 Introduction
-The **Web Scrapper v2.1** is a Python-based tool and the successor of ![Web Scrapper v1](https://github.com/greenbugx/WebScrapper) designed to scrape and download entire websites, including all associated assets like HTML, CSS, JavaScript, images, videos, audios, and fonts. It leverages both **requests** and **Selenium** to handle dynamic content and provides advanced features for recursive crawling, user-agent spoofing, and error handling.
+The **Web Scrapper v2.1** is a Python-based tool and the successor of [Web Scrapper v1](https://github.com/greenbugx/WebScrapper) designed to scrape and download entire websites, including all associated assets like HTML, CSS, JavaScript, images, videos, audios, and fonts. It leverages both **requests** and **Selenium** to handle dynamic content and provides advanced features for recursive crawling, user-agent spoofing, and error handling.
 
 ---
 
